@@ -7,4 +7,5 @@ import javax.persistence.Entity;
 public class role {
     int age;
     String name;
+    String address;
 }

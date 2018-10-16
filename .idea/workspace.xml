@@ -120,12 +120,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="35" />
+          <entry key="java" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="35" />
+          <entry key="JAVA" value="46" />
         </counts>
       </usages-collector>
     </session>
@@ -157,8 +157,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/netcracker/entity/role.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="207">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -167,7 +167,7 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="683" column="142" selection-start-line="683" selection-start-column="142" selection-end-line="683" selection-end-column="142" />
+              <caret line="666" column="142" selection-start-line="666" selection-start-column="142" selection-end-line="666" selection-end-column="142" />
             </state>
           </provider>
         </entry>
@@ -494,7 +494,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14892000" />
+    <option name="totallyTimeSpent" value="15468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -650,7 +650,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="683" column="142" selection-start-line="683" selection-start-column="142" selection-end-line="683" selection-end-column="142" />
+          <caret line="666" column="142" selection-start-line="666" selection-start-column="142" selection-end-line="666" selection-end-column="142" />
         </state>
       </provider>
     </entry>
@@ -663,8 +663,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/netcracker/entity/role.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="207">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
